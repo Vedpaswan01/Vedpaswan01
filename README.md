@@ -1,17 +1,30 @@
-<h1 align="center">Hi 👋, I'm Vedprakash Paswan</h1>
-<h3 align="center">A passionate java backend developer .</h3>
+<h1 align="center">Hi 👋, I am Vedprakash Paswan</h1>
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+Backend+Developer;Web+Developer;Quick+learner;Self+Motivated;Problem+Solver;&color=teal&center=true" />
+</div>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
-- 🌱 I’m currently learning **Java, spring boot, MySQL, hibernate**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vedpaswan01](https://vedpaswan01.github.io/)
+### Summary
+A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure And Algorithms.Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a full-stack developer.
 
-- 💬 Ask me about **Java, Mysql, hibernate**
 
-- 📫 How to reach me **Vedpaswan01@gmail.com**
+# 💫 About Me:
+<br>
+👯 I’m looking to collaborate on Good Tech Skills<br>
+🌱 I’m currently learning Full Stack Web Development<br>
+💬 Ask me about Coding...<br>
+👯 Interested in backend technologies....<br>
+👯 Self Motivated<br>
+⚡ Quick learner<br>
+💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
-- ⚡ Fun fact **Be cool...**
+📫 How to reach me: shubhamppatil1996@gmail.com <br>
+
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1sf5JkcwingAln2rLzN_Pb4Z32oieW7MD/view?usp=sharing)<br>
+
+Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -62,5 +75,8 @@
 </p>
 <hr>
 
-[![trophy](https://github-profile-trophy.vercel.app/?Vedpaswan01=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Followers
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?Vedpaswan01=spp96&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=spp96&icon=2&color=0)](https://visitcount.itsvg.in)
