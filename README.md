@@ -75,8 +75,9 @@ Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.
 </p>
 <hr>
 
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?Vedpaswan01=spp96&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Vedpaswan01&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=spp96&icon=2&color=0)](https://visitcount.itsvg.in)
