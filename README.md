@@ -61,3 +61,5 @@
 </a>
 </p>
 <hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?Vedpaswan01=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
