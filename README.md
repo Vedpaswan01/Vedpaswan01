@@ -20,7 +20,7 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 ⚡ Quick learner<br>
 💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
 
-📫 How to reach me: shubhamppatil1996@gmail.com <br>
+📫 How to reach me: vedpaswan01@gmail.com <br>
 
 ⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1sf5JkcwingAln2rLzN_Pb4Z32oieW7MD/view?usp=sharing)<br>
 
