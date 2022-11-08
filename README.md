@@ -66,7 +66,7 @@ Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.
 <h2 align="center" margin-top="20px"><i>GitHub's Analytics <img align="center" height="40" width="55" src="https://media1.giphy.com/media/3oiaLa13GUehTbgDfs/giphy.gif" /></i></h2>
 <hr>
 <p align="left">
-<a href="https://github.com/Vedpaswan01">
+<a href="https://github.com/Vedpswan01">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Vedpaswan01&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/>
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vedpaswan01&layout=compact&langs_count=8&theme=algolia"/>
   <p align="center">
