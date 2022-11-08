@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
-
+[![](https://visitcount.itsvg.in/api?id=Vedpaswan01&icon=2&color=0)](https://visitcount.itsvg.in)
 ### Summary
 A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure And Algorithms.Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a full-stack developer.
 
@@ -80,4 +80,4 @@ Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.
 ![](https://github-profile-trophy.vercel.app/?username=Vedpaswan01&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vedpaswan01&icon=2&color=0)](https://visitcount.itsvg.in)
+
