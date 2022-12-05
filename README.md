@@ -24,15 +24,16 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 
 ⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1sf5JkcwingAln2rLzN_Pb4Z32oieW7MD/view?usp=sharing)<br>
 
-Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/)
+<!-- Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ved_paswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ee_aman yadav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vedprakash97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman yadav" height="30" width="40" /></a>
 
-<a href="https://www.facebook.com/vedpaswan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/vedpaswan01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_7461" height="30" width="40" /></a>
+<!-- <a href="https://www.facebook.com/vedpaswan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a> -->
+<!-- <a href="https://www.instagram.com/vedpaswan01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_7461" height="30" width="40" /></a> -->
+ 
 <a href="https://www.codechef.com/users/vedpaswan01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="zian1998" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vedpaswan01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amanyadav6750" height="30" width="40" /></a>
 <a href="https://leetcode.com/vedprakash_paswan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amanyadav6750" height="30" width="40" /></a>
