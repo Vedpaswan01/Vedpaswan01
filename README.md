@@ -24,7 +24,7 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 
 ⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1sf5JkcwingAln2rLzN_Pb4Z32oieW7MD/view?usp=sharing)<br>
 
-<!-- Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/) -->
+Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
