@@ -30,7 +30,7 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 <p align="left">
 <a href="https://twitter.com/ved_paswan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ee_aman yadav" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vedprakash97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman yadav" height="30" width="40" /></a>
-<a href="https://vedpaswan01.github.io/"><img src="https://i.im.ge/2022/12/05/SZyany.Capture1.th.png" alt="Capture1" border="0"   height="30" width="40"/></a>
+<a href="https://vedpaswan01.github.io/"><img src="[https://i.im.ge/2022/12/05/SZyany.Capture1.th.png](https://www.nicepng.com/png/full/154-1545276_portfolio-icon-circle.png)" alt="Capture1" border="0"   height="30" width="40"/></a>
 
 <!-- <a href="https://www.facebook.com/vedpaswan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a> -->
 <!-- <a href="https://www.instagram.com/vedpaswan01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_7461" height="30" width="40" /></a> -->
