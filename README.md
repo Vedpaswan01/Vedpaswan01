@@ -13,12 +13,12 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 # 💫 About Me:
 <br>
 👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning Full Stack Web Development<br>
+🌱 I’m currently learning Java Backend Development<br>
 💬 Ask me about Coding...<br>
 👯 Interested in backend technologies....<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
-💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
+💬 Ask me about Java, SpringBoot,Hibernate, Mysql, Javascript, HTML, CSS, DSA<br>
 
 📫 How to reach me: vedpaswan01@gmail.com <br>
 
