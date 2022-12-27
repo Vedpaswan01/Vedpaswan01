@@ -18,7 +18,7 @@ A passionate Developer, who loves to create beautiful and functional websites. p
 👯 Interested in backend technologies....<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
-💬 Ask me about Java, SpringBoot,Hibernate, Mysql, Javascript, HTML, CSS, DSA<br>
+💬 Ask me about Java, SpringBoot, Hibernate, Mysql, Javascript, HTML, CSS, DSA<br>
 
 📫 How to reach me: vedpaswan01@gmail.com <br>
 
