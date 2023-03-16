@@ -7,7 +7,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=Vedpaswan01&icon=2&color=0)](https://visitcount.itsvg.in)
 ### Summary
-A passionate Developer, who loves to create beautiful and functional websites. proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure And Algorithms.Approachable team leader, always keen to take the goal-oriented path to complete the tasks at hand. Looking further to enhance my skills as a full-stack developer.
+- ✔️Being a non-techie, when I am starting my steps toward learning web development, I feel afraid because it is entirely new for me as I am an Electrical Engineering graduate shifting my career entirely in a different direction.Still, at the same time, I am also interested to learn about how technology works and had always been fascinated with how using coding, you can create great products and solve various problems.
+So I decided it's never too late to start something you like.
+For this reason, I started my journey toward learning computer languages, and I am working on it...
+
+.
 
 
 # 💫 About Me:
