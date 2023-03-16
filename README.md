@@ -7,9 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=Vedpaswan01&icon=2&color=0)](https://visitcount.itsvg.in)
 ### Summary
-- ✔️Being a non-techie, when I am starting my steps toward learning web development, I feel afraid because it is entirely new for me as I am an Electrical Engineering graduate shifting my career entirely in a different direction.Still, at the same time, I am also interested to learn about how technology works and had always been fascinated with how using coding, you can create great products and solve various problems.
-So I decided it's never too late to start something you like.
-For this reason, I started my journey toward learning computer languages, and I am working on it...
+- ✔️As an Electrical Engineering graduate and a non-techie, I felt scared but fascinated by web development, which led me to apply to the Masai Coding Bootcamp. Although it was a completely new career path for me, I've always been interested in technology and the problem-solving capabilities of coding. I believe it's never too late to start something you like, which is why I am now working hard to learn computer languages and become a successful web developer.
 
 .
 
