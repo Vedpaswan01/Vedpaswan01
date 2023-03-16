@@ -9,8 +9,6 @@
 ### Summary
 - ✔️As an Electrical Engineering graduate and a non-techie, I felt scared but fascinated by web development, which led me to apply to the Masai Coding Bootcamp. Although it was a completely new career path for me, I've always been interested in technology and the problem-solving capabilities of coding. I believe it's never too late to start something you like, which is why I am now working hard to learn computer languages and become a successful web developer.
 
-.
-
 
 # 💫 About Me:
 <br>
