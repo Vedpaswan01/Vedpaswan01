@@ -7,7 +7,11 @@
 
 [![](https://visitcount.itsvg.in/api?id=Vedpaswan01&icon=2&color=0)](https://visitcount.itsvg.in)
 ### Summary
-- ✔️As an Electrical Engineering graduate and a non-techie, I felt scared but fascinated by web development, which led me to apply to the Masai Coding Bootcamp. Although it was a completely new career path for me, I've always been interested in technology and the problem-solving capabilities of coding. I believe it's never too late to start something you like, which is why I am now working hard to learn computer languages and become a successful web developer.
+- ✔️As an Electrical Engineering graduate and now a successful web developer, I am grateful for the opportunity to have pursued a completely new career path in the technology industry. Despite being a non-techie at first, I found myself both fascinated and challenged by web development, which ultimately led me to enroll in the coding bootcamp.
+
+Throughout my journey, I have always been drawn to the problem-solving capabilities of coding and the endless possibilities it presents. I strongly believe that it is never too late to start something you like, and I am grateful for the chance to have pursued my passion for technology and coding.
+
+As a graduate of the Masai Coding Bootcamp, I am equipped with the skills and knowledge needed to succeed in the ever-evolving world of web development. I am excited to continue learning and growing in my field, and I look forward to contributing to the development of innovative solutions that positively impact society.
 
 
 # 💫 About Me:
