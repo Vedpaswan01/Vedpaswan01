@@ -22,7 +22,7 @@
 
 📫 How to reach me: vedpaswan01@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1sf5JkcwingAln2rLzN_Pb4Z32oieW7MD/view?usp=sharing)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1N2kZ70Rfo8CCLvHpWPos4pQs_1z-Cp-A/view?usp=sharing)<br>
 
 Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/)
 
