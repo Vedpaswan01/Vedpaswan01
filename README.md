@@ -18,11 +18,11 @@
 👯 Interested in backend technologies....<br>
 👯 Self Motivated<br>
 ⚡ Quick learner<br>
-💬 Ask me about Java, SpringBoot, Hibernate, Mysql, Javascript, HTML, CSS, DSA<br>
+💬 Ask me about Java, SpringBoot, Hibernate, Mysql, HTML, CSS, DSA<br>
 
 📫 How to reach me: vedpaswan01@gmail.com <br>
 
-⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1N2kZ70Rfo8CCLvHpWPos4pQs_1z-Cp-A/view?usp=sharing)<br>
+⚡ Want to Know More About Experiance: [Check out My Resume](https://drive.google.com/file/d/1i0lm7W5JiXvFKam1p9jqHTkViA_zfg8d/view?usp=sharing)<br>
 
 Want to know more about me? [Check out My Portfolio](https://vedpaswan01.github.io/)
 
